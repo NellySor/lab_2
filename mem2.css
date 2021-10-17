@@ -1,0 +1,50 @@
+body{
+    padding-left: 5%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #041F4C;
+}
+h1{
+    color: cornsilk;
+    font-size: 50px;
+    font-weight: 100;
+}
+h2{
+    color: cornsilk;
+    font-size: 40px;
+    font-weight: 100;
+}
+p{
+    text-indent: 3%;
+    text-align: justify;
+    color: cornsilk;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.container {
+    align-items: center;
+    justify-content: center
+  }
+
+.image {
+    padding-bottom: 1%;
+    order: 2;
+    position: fixed;
+    margin-left: 50%;
+}
+  
+.text {
+    text-indent: 3%;
+    text-align: justify;
+    color: cornsilk;
+    font-size: 20px;
+    text-align: left;
+    width: 50%;
+  }
+ 
+  li{
+    text-indent: 0%;
+    margin-bottom: 1em;
+}
